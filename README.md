@@ -5,5 +5,7 @@ A simple Zombie Shooter Game made with Python using the Pygame framework for an 
 
 ## Controls
 **WASD** - *Move*
+
 **Left Mouse** - *Shoot*
+
 **P** - Shop
